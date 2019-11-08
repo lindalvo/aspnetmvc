@@ -24,6 +24,8 @@ namespace CasaDoCodigo
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddMvc();
+            services.AddDistributedMemoryCache();
+            services.AddSession();
             string connectionString = Configuration.GetConnectionString("Default");
             services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connectionString));
             services.AddTransient<IDataService, DataService>();
@@ -48,6 +50,7 @@ namespace CasaDoCodigo
             }
 
             app.UseStaticFiles();
+            app.UseSession();
 
             app.UseMvc(routes =>
             {
@@ -56,7 +59,7 @@ namespace CasaDoCodigo
                     template: "{controller=Pedido}/{action=Carrossel}/{codigo?}");
             });
 
-            // serviceProvider.GetService<IDataService>().InicializaDB();
+            serviceProvider.GetService<IDataService>().InicializaDB();
         }
     }
 }
