@@ -13023,23 +13023,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\linda\\.nuget\\packages\\": {},
+    "C:\\Users\\60659211220\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\linda\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "projectUniqueName": "C:\\Users\\60659211220\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
       "projectName": "CasaDoCodigo",
-      "projectPath": "C:\\Users\\linda\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
-      "packagesPath": "C:\\Users\\linda\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\linda\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\obj\\",
+      "projectPath": "C:\\Users\\60659211220\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\CasaDoCodigo.csproj",
+      "packagesPath": "C:\\Users\\60659211220\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\60659211220\\Source\\Repos\\lindalvo\\aspnetmvc\\aspnetcore\\Aulas\\Aula1\\CasaDoCodigo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\linda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\60659211220\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
