@@ -67,14 +67,14 @@ namespace CasaDoCodigo.Models
         internal void Update(Cadastro novoCadastro)
         {
             this.Bairro = novoCadastro.Bairro;
-            this.CEP = novoCadastro.Bairro;
-            this.Complemento = novoCadastro.Bairro;
-            this.Email = novoCadastro.Bairro;
-            this.Endereco = novoCadastro.Bairro;
-            this.Municipio = novoCadastro.Bairro;
-            this.Nome = novoCadastro.Bairro;
-            this.Telefone = novoCadastro.Bairro;
-            this.UF = novoCadastro.Bairro;
+            this.CEP = novoCadastro.CEP;
+            this.Complemento = novoCadastro.Complemento;
+            this.Email = novoCadastro.Email;
+            this.Endereco = novoCadastro.Endereco;
+            this.Municipio = novoCadastro.Municipio;
+            this.Nome = novoCadastro.Nome;
+            this.Telefone = novoCadastro.Telefone;
+            this.UF = novoCadastro.UF;
         }
     }
 
