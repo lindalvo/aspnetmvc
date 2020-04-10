@@ -1,0 +1,14 @@
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.deps.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.runtimeconfig.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.runtimeconfig.dev.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.dll
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\bin\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.pdb
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.csprojAssemblyReference.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorAssemblyInfo.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorAssemblyInfo.cs
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.AssemblyInfoInputs.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.AssemblyInfo.cs
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.dll
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\IdentityServer\CasaDoCodigo.RelatorioWebAPI\obj\Debug\netcoreapp2.2\CasaDoCodigo.RelatorioWebAPI.pdb

@@ -12,3 +12,5 @@ C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\obj\Debug\netcoreapp2.1\web.A
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\obj\Debug\netcoreapp2.1\web.RazorTargetAssemblyInfo.cache
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\obj\Debug\netcoreapp2.1\web.dll
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\obj\Debug\netcoreapp2.1\web.pdb
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\web\obj\Debug\netcoreapp2.1\web.genruntimeconfig.cache

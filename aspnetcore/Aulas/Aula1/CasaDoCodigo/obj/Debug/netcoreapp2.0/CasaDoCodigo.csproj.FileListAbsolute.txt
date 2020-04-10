@@ -3,7 +3,6 @@ C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodi
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.runtimeconfig.dev.json
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.dll
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\CasaDoCodigo.pdb
-C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csproj.CoreCompileInputs.cache
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfoInputs.cache
 C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
@@ -20,3 +19,12 @@ C:\Users\60659211220\Source\Repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\Casa
 C:\Users\60659211220\Source\Repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.AssemblyInfo.cs
 C:\Users\60659211220\Source\Repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.dll
 C:\Users\60659211220\Source\Repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.pdb
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettings.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettingsTRT.Development.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\appsettingsTRT.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\livros.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.genruntimeconfig.cache
+C:\Users\linda\source\repos\lindalvo\aspnetmvc\aspnetcore\Aulas\Aula1\CasaDoCodigo\obj\Debug\netcoreapp2.0\CasaDoCodigo.csprojAssemblyReference.cache

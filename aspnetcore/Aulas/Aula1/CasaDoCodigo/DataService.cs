@@ -19,7 +19,7 @@ namespace CasaDoCodigo
 
         public void InicializaDB()
         {
-            contexto.Database.EnsureCreated();
+            //contexto.Database.EnsureCreated();
 
             List<Livro> livros = GetLivros();
 
